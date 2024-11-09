@@ -52,3 +52,18 @@ Dayeon is a senior majoring in Computer Science at the University of New Mexico.
 
 
 
+![1](https://github.com/user-attachments/assets/f7a62df0-0486-453d-a9e8-b7145d5b3dba)
+![2](https://github.com/user-attachments/assets/a4491cd4-4f44-4bc7-aa4e-1a174490d22f)
+![3](https://github.com/user-attachments/assets/e3b590ab-e6f6-468a-bf7c-bc3c61349405)
+![4](https://github.com/user-attachments/assets/42272ecb-2334-49c2-9c45-c3c612a9b227)
+![5](https://github.com/user-attachments/assets/ec1caca5-9154-42d8-b152-ec6db0a7528f)
+![6](https://github.com/user-attachments/assets/e30c58e4-edba-4ee5-b9e9-a8c92b8c8c4c)
+![7](https://github.com/user-attachments/assets/f8173a4e-690f-42eb-9b7d-24732f94b472)
+![8](https://github.com/user-attachments/assets/75561a1c-7ba2-4ce5-8cdd-784d0abc29e2)
+![9](https://github.com/user-attachments/assets/62f1a9a1-c40c-44b2-9609-cf78c3c997cb)
+![10](https://github.com/user-attachments/assets/67c79042-d027-47ed-bb06-a9620b06214f)
+![11](https://github.com/user-attachments/assets/41f12959-3573-46ff-a84c-d842186d1651)
+![12](https://github.com/user-attachments/assets/521acc64-4f09-480e-a715-e7a40268b60d)
+![13](https://github.com/user-attachments/assets/8fe2e3de-1c7d-472b-b999-18b74edeaacb)
+![14](https://github.com/user-attachments/assets/53dfcc12-69dc-4c55-82ae-b64fafa220e0)
+![15](https://github.com/user-attachments/assets/2ba70df8-0c19-4beb-950e-c0639d9de0f9)
