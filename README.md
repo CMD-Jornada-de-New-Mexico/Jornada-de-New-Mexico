@@ -1,11 +1,16 @@
 # Jornada de New Mexico
 
-
 ### Brief description of the app 
+
 "Jornada de New Mexico" is an immersive tourism app that lets users explore New Mexico’s attractions while capturing characters by answering location-based quizzes. Through this engaging experience, users naturally learn educational information about each site in a fun and enjoyable way. 
 
+----
+
 ### Figma Prototype 
+
 https://www.figma.com/proto/QYmPiK4pXHrAuHSatse1yB/FindYourPack?node-id=0-1&t=AgyJAa29xYkqS6rv-1
+
+---
 
 ### Team members 
 #### Chaeeun Park 
@@ -33,14 +38,15 @@ udayeon@unm.edu
 
 Dayeon is a senior majoring in Computer Science at the University of New Mexico. She has experience co-founded the startup, and she is currently leading a photo booth app project. She thrives on learning new technologies and enjoys turning ideas into impactful solutions. She won first place in the 2024 NASA Space Apps Challenge. 
 
+---
 
-
-
+### Screen shots of the application
 <table>
   <tr>
-    <td><img src="image1_url" alt="Image 1" width="200"/></td>
-    <td><img src="image2_url" alt="Image 2" width="200"/></td>
-    <td><img src="image3_url" alt="Image 3" width="200"/></td>
+   <td><img src="pics/screenshot.jpg" alt="Image 3" width="200"/></td>
+    <td><img src="pics/NMMon.jpg" alt="Image 1" width="200"/></td>
+    <td><img src="pics/chaco-canyon-detail.jpg" alt="Image 2" width="200"/></td>
+    
   </tr>
 </table>
 
